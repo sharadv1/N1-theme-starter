@@ -1,9 +1,9 @@
 {
-  "name": "",
-  "displayName": "",
+  "name": "the venks",
+  "displayName": "vs1",
   "theme": "ui",
   "version": "0.1.0",
-  "description": "",
+  "description": "the #1 theme, meaning its the first one i ever made",
   "license": "GPL-3.0",
   "engines": {
     "nylas": "*"
